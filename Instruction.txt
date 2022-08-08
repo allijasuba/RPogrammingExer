@@ -1,0 +1,22 @@
+I. Rename your excel file to SAMPLE DATA <COURSE and SECTION>
+(Example: SAMPLE DATA BSCOE1-1). Use this file to create a data with file
+name NEWDATA <COURSE and SECTION> (Example:
+NEWDATA BSCOE1-1) with the following conditions:
+1. Randomly take 30% of the number of observations. (2 points)
+2. Include only those students whose favorite color are either red, blue or yellow.
+(2 points)
+3. Select only the following columns: (2 points)
+I Student Number
+I Favorite Subject
+I Grade in 4 subjects
+4. Rename all the column names so that the first letter is capitalised. (2 points)
+5. Create a new column and name it as Average. Calculate it as the average of the
+4 subjects. (2 points)
+
+II. Summarize the data to find out the mean and standard deviation of the
+’Average’ column. Summarize the data according to favorite subject. (4 points)
+For this assessment, you need to submit the following:
+1. The excel file with file name SAMPLE DATA <Course and Section>.
+2. The script file.
+3. PDF file of the screenshot of the outputs. (3 points for the NEW DATA output
+and 3 points for the summarize data)
